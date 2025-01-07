@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java when iterating over an array.  The `BuggyArrayIteration.java` file contains the erroneous code, resulting in an `ArrayIndexOutOfBoundsException`.  The corrected version, `CorrectedArrayIteration.java`, shows the proper way to iterate up to, but not including, the array's length.
